@@ -1,0 +1,105 @@
+@media all and
+ (max-width: 980px) 
+ and (min-width: 768px), 
+ (min-width: 640px){
+    
+.body {
+ width: 960px;
+ margin-left: 150px;
+ position: static;
+ 
+}
+
+
+body {
+    
+font-family: 'Arial', 'Helvitica Neue', Helvitica, sans-serif;
+color: #777;
+background-color: #777;
+font-size: 18px;
+width: 960px;
+text-align: center;
+
+
+
+}
+
+
+
+section {
+    width: 450px;
+    height: 220px;
+    color: #777;
+    background-color: #ebebeb;
+    float:left;
+    padding: 20px;
+}
+
+
+
+
+
+
+article {
+clear: both;
+overflow: auto;
+color: #ebebeb;
+background-color: #777;
+float: left;
+width: 440px;
+height: 180px;
+margin-top: 20px;
+}
+
+
+
+
+aside {
+    
+    color: #777;
+    background-color: #ebebeb;
+    width: 410px; 
+    float: left;
+    height: 220px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+
+footer {
+    clear: both;
+    overflow: auto;
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+nav {
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+header {
+    background-color: #ebebeb;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+
+    
+p {
+    color: #777;
+    background: #ebebeb;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 15px;
+    padding: 20px;
+}
+
+}
